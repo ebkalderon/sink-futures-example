@@ -1,0 +1,10 @@
+[package]
+name = "sink-futures-example"
+version = "0.1.0"
+authors = ["Eyal Kalderon <ebkalderon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+futures-old = { version = "0.1.25", package = "futures" }
+futures-preview = "0.3.0-alpha.12"
+tokio = "0.1.15"

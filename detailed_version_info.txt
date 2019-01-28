@@ -1,0 +1,7 @@
+rustc 1.33.0-nightly (b43986184 2019-01-11)
+binary: rustc
+commit-hash: b43986184b8f4e0d633e8ae1704f0e19aec30cb2
+commit-date: 2019-01-11
+host: x86_64-apple-darwin
+release: 1.33.0-nightly
+LLVM version: 8.0
